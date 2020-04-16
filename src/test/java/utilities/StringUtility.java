@@ -1,4 +1,4 @@
-package untilities;
+package utilities;
 
 public class StringUtility {
 

@@ -2,7 +2,7 @@ package units;
 
 import org.junit.Assert;
 import org.junit.Test;
-import untilities.StringUtility;
+import utilities.StringUtility;
 
 public class ShortestStringUnitTests {
 
