@@ -1,4 +1,4 @@
-This project contains a just a StringUtility class with 2 methods: one to find a shortest string, another one to find longest string.
+This project contains just a StringUtility class with 2 methods: one to find the shortest string, another one to find the longest string.
 
 Also, it contains suite of tests under units package. 
 
